@@ -1,0 +1,8 @@
+python-dotenv
+langchain                          
+langchain-google-genai 
+transformers                      
+sentence-transformers            
+langchain-huggingface 
+langchain-community
+mdformat

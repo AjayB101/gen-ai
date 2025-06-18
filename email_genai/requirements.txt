@@ -1,6 +1,7 @@
-langchain-groq
+streamlit
+langchain
+langchain_groq
+langchain_community
 chromadb
-langchain_community 
-beautifulsoup4
-pandas
+pydantic
 markdown

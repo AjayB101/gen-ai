@@ -1,8 +1,18 @@
-chromadb
-langchain-huggingface
-sentence_transformers
+# Core dependencies
+fastapi
+uvicorn
+
+# LangChain + LLM support
 langchain
+langchain-core
+langchain-groq
 python-dotenv
+
+# ChromaDB for vector store
+chromadb
+
+# Data handling
 pandas
-langchain-chroma
-langchain_groq
+
+# Other
+uuid

@@ -1,3 +1,4 @@
+from dotenv import load_dotenv
 from fastapi import FastAPI, Request
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
@@ -5,7 +6,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from db import get_review, setup_chroma_if_needed
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
-from dotenv import load_dotenv
+
 import os
 
 load_dotenv()

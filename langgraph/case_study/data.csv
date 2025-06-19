@@ -1,0 +1,6 @@
+name,problem,business_model,tech_stack,funding,gtm_strategy,challenges
+Airbnb,Finding short-term rentals,P2P Marketplace,Rails,Seed to Series C,Referral and Craigslist hacking,Trust and safety
+Dropbox,File storage and sync,Freemium,Python,Seed to IPO,Waiting list virality,Early competition with Google Drive
+Notion,Unified workspace,Freemium,React + Electron,Series A+,Community-led growth,Performance and scalability
+Zomato,Restaurant discovery & delivery,Commission + Ads,PHP + Android,Series A+,Hyperlocal marketing,Heavy ops cost
+Figma,Web-based design,Freemium,WebAssembly + TS,Seed to Series D,Invite-based early access,Realtime performance in browser

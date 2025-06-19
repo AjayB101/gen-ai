@@ -1,5 +1,5 @@
 from dotenv import load_dotenv
-from agent import Agent
+from langgraph.playground.agent import Agent
 from langchain.agents import initialize_agent, AgentType
 from langchain_community.tools import TavilySearchResults
 

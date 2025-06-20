@@ -1,0 +1,8 @@
+firecrawl-py
+langchain
+langchain-openai
+langgraph
+pydantic
+python-dotenv
+langchain_groq
+langchain_community

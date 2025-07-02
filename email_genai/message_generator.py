@@ -1,7 +1,5 @@
 from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
-from markdown import markdown
-import os
 from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv(override=True)

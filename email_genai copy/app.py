@@ -1,6 +1,6 @@
 import streamlit as st
 
-from message_generator import generate_message
+from email_generator import generate_message
 
 
 st.title("📧 Smart Referral Message Generator")
